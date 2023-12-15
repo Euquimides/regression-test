@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e6f7021</objectGroupId>
+	<objectId>4e6f7021-a58d-44cc-b294-049c49dd0229</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>health</folder-name>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<internal-name>Healthsss</internal-name>
+	<title_t>Health</title_t>
+	<createdDate>2023-12-15T18:46:37.442Z</createdDate>
+	<createdDate_dt>2023-12-15T18:46:37.442Z</createdDate_dt>
+	<lastModifiedDate>2023-12-15T18:46:37.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-15T18:46:37.442Z</lastModifiedDate_dt>
+	<category_s>health</category_s>
+	<max_articles_i>10</max_articles_i>
+	<articles_title_t>Health</articles_title_t>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+</page>
